@@ -1,0 +1,20 @@
+{
+  "title": "Maki Mouth",
+  "id": "maki_mouth",
+
+  "description": "A mod where the songs are made in audacity and the vocals are Mouth.",
+  
+  "contributors": [
+    {
+      "name": "Maki"
+    }
+  ],
+  
+  "dependencies": {},
+  "optionalDependencies": {},
+
+  "api_version": "0.6.3",
+  "mod_version": "1.0.0",
+  
+  "license": "Apache-2.0"
+}
